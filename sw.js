@@ -1,0 +1,1 @@
+const CACHE_NAME = 'riser-cache-v1'; self.addEventListener('fetch', e => e.respondWith(fetch(e.request)));

@@ -1,0 +1,16 @@
+{
+  "short_name": "Riser",
+  "name": "Riser AI Assistant",
+  "description": "Premium AI by Riser Corporation",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020202",
+  "background_color": "#020202"
+}

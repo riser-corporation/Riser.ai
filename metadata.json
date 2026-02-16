@@ -1,0 +1,7 @@
+{
+  "name": "Riser AI Assistant",
+  "description": "Premium AI assistant by Riser Corporation",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
